@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![rcmdnk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirogamichandayo&theme=graywhite)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirogamichandayo&layout=compact&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test)
+
+[![Github](https://img.shields.io/github/followers/sirogamichandayo?label=Follow&style=social)](https://github.com/sirogamichandayo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirogamichandayo)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=sirogamichandayo&show_icons=true&count_private=true&line_height=40)
 
 <!--
 **sirogamichandayo/sirogamichandayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
